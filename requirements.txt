@@ -1,0 +1,5 @@
+cffi
+cryptography
+pycparser
+termcolor
+wheel
